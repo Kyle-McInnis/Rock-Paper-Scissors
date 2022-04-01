@@ -6,4 +6,4 @@ There are 10 rounds for each game and your score will go up or down depending on
 
 
 
-![wins](https://user-images.githubusercontent.com/95224279/161253095-fdce48a1-428e-4fe9-97d5-4a54e2eb5bc8.JPG = 425x850)
+![wins](https://user-images.githubusercontent.com/95224279/161253095-fdce48a1-428e-4fe9-97d5-4a54e2eb5bc8.JPG)
