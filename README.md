@@ -6,4 +6,4 @@ There are 10 rounds for each game and your score will go up or down depending on
 
 
 
-![wins](/images/wins.jpg)
+![wins](./images/wins.jpg)
