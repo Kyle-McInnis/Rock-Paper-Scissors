@@ -10,3 +10,5 @@ There are 10 rounds for each game and your score will go up or down depending on
 
 <img src="https://user-images.githubusercontent.com/95224279/161255537-9ba8f684-ea5d-49c4-b656-dca8c541bccd.JPG" width="212" height="429" />
 
+<img src="https://user-images.githubusercontent.com/95224279/161255785-70b6fe39-3090-4beb-b528-7f28f72c952c.JPG" width="212" height="429" />
+
